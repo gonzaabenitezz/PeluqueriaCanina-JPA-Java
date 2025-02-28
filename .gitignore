@@ -1,0 +1,22 @@
+# Ignorar carpeta target (generada por Maven)
+target/
+
+# Ignorar archivos de IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+*.project
+*.classpath
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de entorno
+.env
+*.properties
+*.yml
